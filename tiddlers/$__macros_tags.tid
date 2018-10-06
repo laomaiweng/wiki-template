@@ -1,0 +1,9 @@
+created: 20181006230443418
+modified: 20181006231951652
+tags: $:/tags/Macro
+title: $:/macros/tags
+type: text/vnd.tiddlywiki
+
+\define tags(filter)
+{{{ $filter$ ||$:/core/ui/TagTemplate}}}
+\end
