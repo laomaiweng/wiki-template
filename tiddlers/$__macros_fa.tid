@@ -1,9 +1,9 @@
 created: 20181006230034415
-modified: 20181006230223187
+modified: 20190509101229698
 tags: $:/tags/Macro
 title: $:/macros/fa
 type: text/vnd.tiddlywiki
 
-\define fa(class)
-<i class="fa fa-$class$"/>
+\define fa(glyph, fam:"fas", class:"")
+<i class="$fam$ $class$ $glyph$"/>
 \end
