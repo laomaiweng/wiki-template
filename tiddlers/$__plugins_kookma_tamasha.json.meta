@@ -1,0 +1,11 @@
+author: Mohammad Rahmani
+core-version: >=5.2.5
+description: presentation and slideshow
+list: readme license history
+name: Tamasha
+plugin-type: plugin
+source: https://github.com/kookma/TW-Tamasha
+tags: 
+title: $:/plugins/kookma/tamasha
+type: application/json
+version: 0.6.0

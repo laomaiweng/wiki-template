@@ -1,0 +1,10 @@
+author: Mohammad Rahmani
+description: fonts, colors, and visual effects
+list: readme license history
+name: Tamasha Themes and Animations
+parent-plugin: $:/plugins/kookma/tamasha
+plugin-type: plugin
+tags: 
+title: $:/plugins/kookma/tamasha-themes
+type: application/json
+version: 0.1.0

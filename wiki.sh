@@ -7,4 +7,4 @@ ip="$2"
 root='$:/core/save/all'
 [[ "$3" == lazy ]] && root='$:/core/save/lazy-all'
 
-tiddlywiki . --listen host="$ip" port="$port" root-tiddler="$root"
+tiddlywiki . --listen host="$ip" port="$port" root-tiddler="$root" gzip=yes
